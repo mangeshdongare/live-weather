@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "hbs": "^4.2.0"
+  },
+"scripts":{
+"start" : "node ExpressWeb/src/app.js"
+}
+}
